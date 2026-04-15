@@ -1,0 +1,53 @@
+# 이미지·PDF만 추적 (루트 README.md 예외)
+*.md
+!README.md
+
+# 문서·스프레드시트
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+*.csv
+*.rtf
+*.odt
+*.ods
+*.odp
+
+# 코드·설정
+*.py
+*.ts
+*.tsx
+*.js
+*.jsx
+*.mjs
+*.cjs
+*.java
+*.go
+*.rs
+*.cs
+*.json
+*.yaml
+*.yml
+*.xml
+*.html
+*.htm
+*.css
+*.scss
+*.less
+*.sql
+*.sh
+*.ps1
+*.bat
+*.cmd
+
+# 기타
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+Thumbs.db
+.DS_Store
+desktop.ini
